@@ -4,7 +4,7 @@ Seal your generic functions for an extra boost in performance.
 
 |---------+---------------------------------------------------------------|
 | source  | git:https://github.com/marcoheisig/fast-generic-functions.git |
-| commit  | 9c307cd                                                       |
+| commit  | 6e9d690                                                       |
 | systems | fast-generic-functions                                        |
 |---------+---------------------------------------------------------------|
 
